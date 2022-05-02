@@ -1,0 +1,16 @@
+{
+  "name": "Anime-Web-Design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Smartlify08.github.io/AnimeWebsite",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
